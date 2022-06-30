@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Original Salute Emoji",
+    "price": "0.09",
+    "description": "Get the original NFT media for the Salue Emoji.",
+    "image_url": "https://theninja.pro/assets/nfts/salute-preview.png",
+    "filename": "Emojis.zip",
+    "hash": "QmVNQxUtuGzNjafnYSesKBekmCLbko728SA2rTB1YBG5X2",
+    "seller": "2UftH3L9szp2DbWAqPgK9Nha5yFC8FfQqhhD3AgHqER1"
+  },
+  {
+    "id": 2,
+    "name": "Bunbun best side",
+    "price": "0.12",
+    "description": "Get the most Famous Bunbun photo of her best side.",
+    "image_url": "https://theninja.pro/assets/nfts/bunbun-preview.png",
+    "filename": "Bunbun.jpeg",
+    "hash": "QmYZpDaHxnjWoRyeSQ2bQwzfQhdPTJqMbho7DTyAUfAuTi",
+    "seller": "2UftH3L9szp2DbWAqPgK9Nha5yFC8FfQqhhD3AgHqER1"
+  },
+  {
+    "id": 3,
+    "name": "Jonah at work",
+    "price": "1.12",
+    "description": "A beautiful representation of Jonah hard at work.",
+    "image_url": "https://theninja.pro/assets/nfts/atwork-preview.png",
+    "filename": "at-work.gif",
+    "hash": "QmecwUh2FZmmCYeKNwwKeSrVNBMsCrPo4d49S3vQf4fQi9",
+    "seller": "2UftH3L9szp2DbWAqPgK9Nha5yFC8FfQqhhD3AgHqER1"
+  },
+  {
+    "id": 4,
+    "name": "Jonah in Style",
+    "price": "52",
+    "image_url": "https://theninja.pro/assets/nfts/jonah-preview.png",
+    "description": "Jonah in style, just for you and your eyes.",
+    "filename": "QmP4B9JiYWHQ6aefoTnfev4be4iTqEt9BFCzYa7bdxnwBL.zip",
+    "hash": "QmR5R2XEBuoXhvVfdBZBWnZGytpzT5GJKJbvnQWxNMNxLq",
+    "seller": "2UftH3L9szp2DbWAqPgK9Nha5yFC8FfQqhhD3AgHqER1"
+  },
+  {
+    "id": 5,
+    "name": "Breaking the code",
+    "price": "23",
+    "image_url": "https://theninja.pro/assets/nfts/work-preview.png",
+    "description": "While at work, you are always breaking the code!",
+    "filename": "work.zip",
+    "hash": "QmTZq8aF8sJy7PpjAduWoR5Zzs41iVv1uazTRRgeaskAP6",
+    "seller": "TPJfTTYX5HWM45VGYgJ4f3AbnLVPwtKZ3wvdnqh7u8q"
+  }
+]

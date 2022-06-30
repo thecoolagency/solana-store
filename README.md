@@ -1,15 +1,13 @@
-# buildspace Store on Solana Pay Project
+# public store using solana
 
-### **Welcome 👋**
+### **run it 👋**
 
-To get started with this project, clone this repo and follow these commands:
+1. Run `yarn` at the root of directory
+2. Run `yarn run dev` to start the dev environment
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run dev` to start the project
-3. Start coding!
+### **go mainnet?**
 
-### What is the `.vscode` Folder?
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+1. update USDC address as:
+`const usdcAddress = new PublicKey("EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v");`
+2. in `_app.js` and `createTransaction.js` change network as:
+`const network = WalletAdapterNetwork.Mainnet;`
