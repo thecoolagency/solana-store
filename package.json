@@ -1,9 +1,9 @@
 {
-  "name": "@solana/wallet-adapter-nextjs-starter",
+  "name": "Solana Public Storefront",
   "version": "0.8.2",
-  "author": "Solana Maintainers <maintainers@solana.foundation>",
-  "repository": "https://github.com/solana-labs/wallet-adapter",
-  "license": "Apache-2.0",
+  "author": "Jonah Madeya",
+  "repository": "https://github.com/thecoolagency/solana-store",
+  "license": "MIT",
   "files": [
     "src",
     ".gitignore",
